@@ -19,7 +19,7 @@ const Footer = () => {
               />
 
               <span className="font-bold text-background text-lg">
-                Srinathan Enterprise
+                Srithan Enterprise
               </span>
             </div>
 
