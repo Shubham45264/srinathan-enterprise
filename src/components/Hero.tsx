@@ -31,7 +31,7 @@ const Hero = () => {
           </h1>
 
           <p className="text-lg text-primary-foreground/80 max-w-lg mb-8 leading-relaxed">
-            Srithan Enterprises delivers safe, on-time transportation services with a modern fleet and 
+            Srithan Enterprise delivers safe, on-time transportation services with a modern fleet and 
             dedicated team across India.
           </p>
 
