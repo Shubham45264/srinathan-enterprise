@@ -22,7 +22,7 @@ const Navbar = () => {
             />
             <div className="leading-tight">
               <span className="font-bold text-foreground text-lg tracking-tight">
-                Srinathan
+                Srithan
               </span>
               <span className="block text-[11px] text-muted-foreground font-medium tracking-widest uppercase -mt-0.5">
                 Enterprise
