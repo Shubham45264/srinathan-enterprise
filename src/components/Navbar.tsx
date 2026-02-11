@@ -51,7 +51,7 @@ const Navbar = () => {
               className="flex items-center gap-2 text-sm font-medium text-muted-foreground hover:text-primary transition-colors"
             >
               <Phone className="w-4 h-4" />
-              +91 12345 67890
+              022 - 46604522
             </a>
             <Button variant="hero" size="sm">
               Get a Quote
