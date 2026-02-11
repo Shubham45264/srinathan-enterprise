@@ -41,11 +41,11 @@ const CTA = () => {
             <div className="flex flex-col sm:flex-row items-center justify-center gap-6 text-primary-foreground/70">
               <a href="tel:+911234567890" className="flex items-center gap-2 text-sm hover:text-primary-foreground transition-colors">
                 <Phone className="w-4 h-4" />
-                +91 12345 67890
+                +91 9223344899
               </a>
               <a href="mailto:info@srinathan.com" className="flex items-center gap-2 text-sm hover:text-primary-foreground transition-colors">
                 <Mail className="w-4 h-4" />
-                info@srinathan.com
+                srini@srithanenterprise-co-in.com
               </a>
             </div>
           </div>
